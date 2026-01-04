@@ -1,0 +1,14 @@
+Langkah untuk running program:
+
+sebelumnya lakukan dahulu import database nya dengan cara :
+1. download file app_absensi.sql yang sudah di sediakan
+2. Selanjutnya pada phpmyadmin create database dengan nama database app_absensi
+3. Lalu pada menu Import masukan file app_absensi.sql yang sudah di download
+
+Jika sudah sekarang untuk running program ada beberapa langkah:
+1. pada folder sebelum masuk ke isi-isi file dan project laravelnya yaitu pada folder tb prakpemrograman, buka terminal dan ketik code .
+2. Selanjutnya buka terminal pad VSCode lalu ketikan cd "tb prakpemrograman" dan enter
+3. Lalu ketikan php artisan serve nya dan masuk ke link yang tersedia
+
+NOTES : terminal di buka bukan di dalam folder tb pemrograman nya jadi bukan di dalam folder yang ada kaya file app, resource, dll nya jadi di luar folder.
+        karena jika di dalam folder dimana berisi code program project nya, pada terminal saat mengetikan cd "tb prakpemrograman" tidak akan bisa
